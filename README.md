@@ -20,3 +20,18 @@ Ahh, e eu esqueci de colocar os integrantes da equipe pq eu n sabia oq colocar, 
     -Anderson Cabral;
 
 Mt obg professor se o senhor leu td;
+
+Prazer, me chamo Waldemar Philype, e apesar do nome exótico ainda não sou avô de 3.
+Tenho algumas expectativas tanto para o curso quanto para o futuro: 
+Se não fossem os milhões de problemas que a programação traz, facilmente ficaria na área, porém, não dá pra passar 2 dias sem dormir pra entregar qualquer bagulho.
+(Se bem que 2k dols per month me faria bem demais patrão);
+Silvio Santos tem que ser congelado pq o homi é véio mas é foda, e tem que descongelar o Roberto Carlos pq natal é todo dia e o mundo é rosa.
+Elon Musk vai comprar o Brasil até 2025 e transformar numa fábrica da Tesla, geral já sabe. 
+
+Sou entusiasta de jogos e filmes, costumo jogar bastante. Dentre os meus favoritos, se destacam Red Dead Redemption 2, The Last of Us e DaysGone.
+Para PC, claramente não poderia deixar de fora o minecraft que fez parte da infância de qualquer brasileiro médio de 2004 e afins.
+Sou fã de filmes de ação, sou preguiçoso com séries, se eu não assistir tudo de uma vez assisto tudo em três anos. 
+Sou eclético, mas atualmente tô curtindo muito indie e rock, bandas como Mother Mother e macacos gélidos estão em quases todas as minhas playlists.
+E a cor, pô, azul da massa e preto.
+Ah, sou bilíngue, mas me falta a coisa maravilhosa do diploma (que saí esse ano. ALELUIA IGREJA).
+É isto, apresentação básica, vou guardar o resto de informação para quando o professor pedir outro commit. 
