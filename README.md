@@ -19,4 +19,4 @@ Ahh, e eu esqueci de colocar os integrantes da equipe pq eu n sabia oq colocar, 
     -Amauri da Silva;
     -Anderson Cabral;
 
-Mt obg professor se o senhor leu td;
+O professor leu tudo sim
