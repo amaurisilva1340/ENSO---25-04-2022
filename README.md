@@ -20,3 +20,7 @@ Ahh, e eu esqueci de colocar os integrantes da equipe pq eu n sabia oq colocar, 
     -Anderson Cabral;
 
 Mt obg professor se o senhor leu td;
+
+O christian me ajudou
+Mt top
+obg
